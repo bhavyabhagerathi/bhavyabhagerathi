@@ -5,6 +5,7 @@
 - 📫 Reach out to me at :
 - LinkedIn - https://www.linkedin.com/in/bhavya-bhagerathi-0678081a5/
 - Mail - bhageerathibhavya777@gmail.com
+- Portfolio - https://bhavyabhagerathidatascience.netlify.app/
                                
 
 <!---
