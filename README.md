@@ -5,7 +5,7 @@
 🌱 If you're as intrigued by the endless possibilities of data as I am, let's connect! Together, we can explore the data-driven universe and turn ideas into impactful solutions. 
 
 📫 Reach out to me at :
-- LinkedIn - https://www.linkedin.com/in/bhavya-bhagerathi-0678081a5/
+- LinkedIn - https://www.linkedin.com/in/bhavya-b-575b32281/
 - Mail - bhageerathibhavya777@gmail.com
 - Portfolio - https://bhavyabhagerathidatascience.netlify.app/
                                
